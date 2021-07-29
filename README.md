@@ -19,5 +19,9 @@ I have also impletemented a technique that shows that frame per second in the we
 
 ![Screenshot (906)](https://user-images.githubusercontent.com/86128944/127511919-9304e670-2279-47a4-b227-abff402f8a69.png)
 
+TO RUN IT:
+-Open python IDE (python 3.0+ preffered)
+-Downlaod packages (opencv-python and mediapipe)
+
 
 
